@@ -21,13 +21,14 @@
 	I stored the data in MongoDB and then modify the data by connecting to the database.
 
 4. Git approach. 
-	I used Git to test functions and commit important information.
+	I use Git to test functions and commit important information.
 
 5. DX approach.
-	I used the experience of using the real bank system to develop this Web and designed a
-	variety of useful functions including purchasing and settling foreign exchange, verifying
-	password, and so on.
+	There some functions validate password such as saveMoney(). I use Mocha framework to 
+	automated test it.
 
 6. References
 	Web App Development tutorial. Link: https://tutors-design.netlify.com/course/wit-wad-2-2019.netlify.com
 	WIT Agile Software Practice Lab. Link: https://moodle.wit.ie/pluginfile.php/4851516/mod_resource/content/4/
+
+GitHub link: https://github.com/ShiqianYan/bankSystemWeb
